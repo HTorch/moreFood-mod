@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <ItemPools>
 	<Pool Name="shop">
 		<Item Name="Chicken Breast" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
@@ -13,4 +14,21 @@
 	<Pool Name="boss">
 		<Item Name="Chicken Breast" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
+=======
+<ItemPools>
+	<Pool Name="shop">
+		<Item Name="Chicken Breast" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Hot Pot" Weight="0.4" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Ginger" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="treasure">
+		<Item Name="Chicken Breast" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Celeste" Weight="0.6" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Hot Pot" Weight="0.4" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Ginger" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="boss">
+		<Item Name="Chicken Breast" Weight="0.8" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+>>>>>>> d35c1c50f9ec8083dc8f476c254e12ae4506c252
 </ItemPools>

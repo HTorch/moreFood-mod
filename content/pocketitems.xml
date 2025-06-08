@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 <pocketitems>
 	<pilleffect name="Polio Vaccines" class="0" mimiccharge="1" />
+=======
+<pocketitems>
+	<pilleffect name="Polio Vaccines" class="0" mimiccharge="1" />
+>>>>>>> d35c1c50f9ec8083dc8f476c254e12ae4506c252
 </pocketitems>
