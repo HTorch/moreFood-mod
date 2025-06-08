@@ -1,0 +1,8 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/death items.anm2">
+	<!--Items-->
+	<familiar name="Chicken Breast" id="0" description="MUSCLE" gfx="chicken_breast.png" quality="2" devilprice="1" craftquality="2" cache="all" tags="offensive summonable food"/>
+	<familiar name="Celeste" id="1" description="DASH" gfx="celeste.png" quality="3" devilprice="1" craftquality="3" cache="all" tags="offensive summonable"/>
+	<familiar name="Hot Pot" id="2" description="HOT AND SPICY" gfx="hot_pot.png" quality="4" devilprice="2" craftquality="4" cache="all" tags="offensive summonable"/>
+	<familiar name="Ginger" id="3" description="NOOO" gfx="ginger.png" quality="2" devilprice="1" craftquality="2" cache="all" tags="offensive summonable"/>
+	<!--Trinkets-->
+</items>
